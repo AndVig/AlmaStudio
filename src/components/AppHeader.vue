@@ -1,6 +1,6 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
-    <div class="container d-flex justify-content-around">
+    <div class="container-fluid d-flex justify-content-around">
       <!-- Button 1 and 2 will be hidden on small screens -->
       <div class="d-none d-lg-block">
         <button class="btn btn-primary">{{ button1Text }}</button>

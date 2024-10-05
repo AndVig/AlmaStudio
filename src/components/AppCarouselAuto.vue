@@ -1,11 +1,11 @@
 <script>
 export default {
-  name: "AppHome",
+  name: "AppCarouselAuto",
 };
 </script>
 
 <template>
-
+prova
 </template>
 
 <style>
