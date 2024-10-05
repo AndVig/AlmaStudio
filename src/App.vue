@@ -13,8 +13,11 @@ export default {
 </script>
 
 <template>
-  <AppHeader />
-  <AppHome />
+  <div class="bg-light">
+    <AppHeader />
+    <AppHome />
+
+  </div>
 </template>
 
 <style>
